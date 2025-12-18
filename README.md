@@ -1,37 +1,82 @@
-# 💫 About Me:
+# 👋 Hi, I'm Arun Kumar Veguru
 
-👋 Hello! I’m Arun<br>"Passionate Web Developer | Enthusiastic Problem Solver | Continuously Building Projects and Skills"
+🚀 **Aspiring Machine Learning Engineer | Full-Stack Web Developer (MERN)**  
+💡 Passionate about building data-driven applications, scalable web systems, and continuously improving problem-solving skills.
 
-<a href="https://app.daily.dev/arunkumar2206"><img src="https://api.daily.dev/devcards/v2/5HibWeGooFeKEfEhdmsbF.png?type=default&r=y0o" width="356" alt="ARX's Dev Card"/></a>
+I enjoy working at the intersection of **Machine Learning** and **Web Development**, turning ideas into real-world products and open-source tools.
 
-## 🌐 Socials:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arunkumarveguru/)
+## 🔗 Connect With Me
 
-# 💻 Tech Stack:
+- 💼 LinkedIn: https://www.linkedin.com/in/arunkumarveguru  
+- 💻 GitHub: https://github.com/Arun-kumar2206  
+- 📧 Email: arunveguru2005@gmail.com  
 
-### Programming Languages
+<a href="https://app.daily.dev/arunkumar2206">
+  <img src="https://api.daily.dev/devcards/v2/5HibWeGooFeKEfEhdmsbF.png?type=default&r=y0o" width="350" alt="Arun's Dev Card"/>
+</a>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+---
 
-### Web Technologies
+## 🧠 About Me
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- 🎓 B.Tech CSE @ JNTUA College of Engineering, Pulivendula (2023–2027)
+- 🤖 Learning and building projects in **Machine Learning & Deep Learning**
+- 🌐 Strong foundation in **MERN Stack** & RESTful APIs
+- 🛠️ Open-source contributor with merged PRs
+- 📈 Actively improving **DSA & problem-solving**
 
-### MERN Stack
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## 💻 Tech Stack
 
-### Development Tools
+### 🚀 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+---
 
-### Other Skills
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-0769AD?style=for-the-badge) ![API](https://img.shields.io/badge/API_Integration-3670A0?style=for-the-badge) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
+---
 
-# 📊 GitHub Stats:
+### 🤖 Machine Learning & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=Arun-kumar2206&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arun-kumar2206&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-kumar2206&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+---
+
+## 🧠 DSA & Problem Solving (LeetCode)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/arunveguru2005?theme=dark&font=Baloo&ext=heatmap)
+
+🔗 https://leetcode.com/u/arunveguru2005/
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arun-kumar2206&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-kumar2206&layout=compact&theme=dark&hide_border=true)
+
+---
+
+⭐ *Always learning, building, and improving one project at a time.*
